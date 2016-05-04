@@ -1,0 +1,34 @@
+{
+  "name": "jswrapper",
+  "version": "1.0.4",
+  "description": "A code line wrapper for javascript files.",
+  "main": "./bin/jswrapper.js",
+  "bin": {
+    "jswrapper": "./bin/jswrapper.js"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasSchwarzer/jswrapper.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "code",
+    "line",
+    "wrap",
+    "wrapper"
+  ],
+  "author": "NicolasSchwarzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasSchwarzer/jswrapper/issues"
+  },
+  "homepage": "https://github.com/NicolasSchwarzer/jswrapper#readme",
+  "engine-strict": true,
+  "engines": {
+    "node": ">= 0.12"
+  }
+}

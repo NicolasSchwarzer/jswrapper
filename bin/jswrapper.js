@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use strict';
 
-console.log(__dirname);
+console.log(__dirname, process.argv, process.cwd());
