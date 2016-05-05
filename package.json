@@ -1,6 +1,6 @@
 {
   "name": "jswrapper",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "A code line wrapper for javascript files.",
   "main": "./bin/jswrapper.js",
   "bin": {
